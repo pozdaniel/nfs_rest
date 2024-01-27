@@ -1,5 +1,3 @@
 <?php
-echo "Hello world";
-echo 'asdasdasdasd';
-echo "2123123123";
-echo 'echo123123';
+echo "line1";
+echo 'line2';
